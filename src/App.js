@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div>
-      <h1>Let's get started !!</h1>
+      <h1 className='App-header'>React for Fun!!</h1>
       {/* <ExpenseItem title={expenses[0].title} amount={expenses[0].amount} date={expenses[0].date} />
       <ExpenseItem title={expenses[1].title} amount={expenses[1].amount} date={expenses[1].date} />
       <ExpenseItem title={expenses[2].title} amount={expenses[2].amount} date={expenses[2].date} />
